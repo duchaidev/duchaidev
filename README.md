@@ -11,7 +11,7 @@
   <samp>
     <a href="https://duchai.id.vn">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>VietNam</b> 」
+    「 I am a front-end web application developer from <b>VietNam</b> 」
     <br>
     <br>
   </samp>
@@ -84,25 +84,30 @@
 <br/>
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-
+-->
 <!--🖼️OCTOCAT-->
+<!--
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
+-->
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<!--
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
-
+-->
 <!--<p align="center">
   <a href="https://github.com/duchaidev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=duchaidev&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>-->
+<!--
 <p align="center">
  <a href="https://github.com/duchaidev"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=duchaidev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
+-->
 <p align="center">
   <a href="https://github.com/duchaidev">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duchaidev&theme=radical" alt="Al Siam's GitHub Contribution"/>
