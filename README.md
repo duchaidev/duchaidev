@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://duchai.id.vn">「 Google Me 」</a>
+    <a href="https://leduchai.me" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a front-end web application developer from <b>VietNam</b> 」
     <br>
