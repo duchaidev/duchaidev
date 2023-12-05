@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="[https://leduchai.me](https://www.google.com/search?q=duchaidev&rlz=1C1VDKB_enVN1051VN1051&oq=duchaidev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGA0YgAQyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzMzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)" target="_blank">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=duchaidev&rlz=1C1VDKB_enVN1051VN1051&oq=duchaidev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGA0YgAQyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzMzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a front-end web application developer from <b>VietNam</b> 」
     <br>
