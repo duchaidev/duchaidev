@@ -2,14 +2,14 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://duchai.id.vn">Duc Hai</a></b>
+                <b><a target="_blank" href="https://leduchai.me">Duc Hai</a></b>
         </samp>
 </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 <p align="center"> 
   <samp>
-    <a href="https://leduchai.me" target="_blank">「 Google Me 」</a>
+    <a href="[https://leduchai.me](https://www.google.com/search?q=duchaidev&rlz=1C1VDKB_enVN1051VN1051&oq=duchaidev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGA0YgAQyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzMzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a front-end web application developer from <b>VietNam</b> 」
     <br>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <a href="https://duchai.id.vn" target="blank">
+ <a href="https://leduchai.me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderhai" />
  </a>
 <!--  <a href="https://linkedin.com/in/al-siam" target="_blank">
@@ -33,7 +33,7 @@
  <a href="https://instagram.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a>  -->
- <a href="https://facebook.com/coder.hai" target="_blank">
+ <a href="https://facebook.com/duchaidev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="coderhai"  />
   </a> 
 </p>
